@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "dd32e276d0478828",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad40eb22303db9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4eef912675935ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Insert monster (Fantasy statblocks).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insert monster (Fantasy statblocks)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3ab5ec223fc0cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "adfd8afd750aa377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf42760b3b87c75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87529cc021c8f51c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "389fb9e4c7a57642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "fc9a2b3ffe1678f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "80dab023ecc728d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acee0ff60cb89462",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9350dbcd5e5a032c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2d99d665207647fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbf79f3399c27c35",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "82036dbf346175c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a9214ad2a8bc67d8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "2000293157008dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95f291a3f78ab36",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 568.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open DnDDuban": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "d4eef912675935ec",
+  "lastOpenFiles": [
+    "Kouzla/1. Úroveň/Mágova zbroj.md",
+    "z_Templates/Insert monster (Fantasy statblocks).md",
+    "z_Templates",
+    "Kouzla/1. Úroveň/Štít.md",
+    "Mechaniky/Initiative tracker.md",
+    "1 Ztracený důl Fendelveru/NPC/Jarno Albrek.md",
+    "1 Ztracený důl Fendelveru/NPC/Sildar Zimohrad.md",
+    "1 Ztracený důl Fendelveru/Kapitoly/02 Fendelin.md",
+    "1 Ztracený důl Fendelveru/NPC/Gundren Skálohled.md",
+    "1 Ztracený důl Fendelveru/Předměty/Hůl obrany.md",
+    "1 Ztracený důl Fendelveru/Sessions/19.12.2025.md",
+    "Kouzla/1. Úroveň/Zhoj zranění.md",
+    "1 Ztracený důl Fendelveru/1 Ztracený důl Fendelveru.md",
+    "1 Ztracený důl Fendelveru/Sessions",
+    "1 Ztracený důl Fendelveru/Frakce/Frakce.md",
+    "Kouzla/0. Triky/Šokující sevření.md",
+    "Kouzla/0. Triky/Tajemný výšleh.md",
+    "Kouzla/0. Triky/Boží dohled.md",
+    "Kouzla/0. Triky/Druidovství.md",
+    "Kouzla/1. Úroveň",
+    "Mechaniky/Povolání/Druid.md",
+    "Kouzla/0. Triky",
+    "Mechaniky/Rasy",
+    "Mechaniky/Povolání",
+    "Kouzla",
+    "1 Ztracený důl Fendelveru/Předměty",
+    "Monstra/Notik.md",
+    "Hostinec U Kameníka.md",
+    "1 Ztracený důl Fendelveru/Kapitoly/01 Gobliní šípy.md",
+    "Monstra/Kostlivec.md",
+    "Monstra/Vlk.md",
+    "Monstra/Krysa.md",
+    "Monstra/Gobr.md",
+    "Monstra/Goblin.md",
+    "z_Assety/goblin.png",
+    "z_Assety/gobr.png",
+    "Monstra",
+    "1 Ztracený důl Fendelveru/Družina",
+    "z_Assety/Fendelin_PJ.jpg",
+    "z_Assety/Fendelin_hráči.jpg",
+    "Untitled.canvas"
+  ]
+}
