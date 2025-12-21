@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "fad40eb22303db9d",
+        "id": "3d44d8c8d6d05007",
         "type": "tabs",
         "children": [
           {
-            "id": "d4eef912675935ec",
+            "id": "d9c5abc5024a70f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Insert monster (Fantasy statblocks).md",
+                "file": "1 Ztracený důl Fendelveru/Družina/Duban.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insert monster (Fantasy statblocks)"
+              "title": "Duban"
+            }
+          },
+          {
+            "id": "6d922b96092dc5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kouzla/0. Triky/Tajemný výšleh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tajemný výšleh"
+            }
+          },
+          {
+            "id": "71d0181d70873bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monstra/Goblin.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goblin"
             }
           }
         ]
@@ -154,26 +182,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 Ztracený důl Fendelveru/Družina/Duban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "a9214ad2a8bc67d8",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "title": "Outline of Duban"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "2000293157008dd2",
@@ -190,14 +209,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "0d9521cc1969e49d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c35eb3bcc1a1f0",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 568.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open DnDDuban": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,46 +241,47 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-custom-frames:Open DnDDuban": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d4eef912675935ec",
+  "active": "d9c5abc5024a70f4",
   "lastOpenFiles": [
-    "Kouzla/1. Úroveň/Mágova zbroj.md",
+    "1 Ztracený důl Fendelveru/Družina/test.md",
+    "1 Ztracený důl Fendelveru/Družina/Duban.md",
+    "1 Ztracený důl Fendelveru/Družina/Bohémský kněžník.md",
+    "1 Ztracený důl Fendelveru/Družina/Yori.md",
+    "Kouzla/0. Triky/Tajemný výšleh.md",
+    "1 Ztracený důl Fendelveru/Kapitoly/02 Fendelin.md",
+    "1 Ztracený důl Fendelveru/NPC/Sildar Zimohrad.md",
+    "1 Ztracený důl Fendelveru/Kapitoly/01 Gobliní šípy.md",
+    "Monstra/Gobr.md",
+    "Monstra/Goblin.md",
+    "Monstra/Vlk.md",
+    "Kouzla/0. Triky/Druidovství.md",
+    "1 Ztracený důl Fendelveru/Družina/Kletý syn.md",
+    "1 Ztracený důl Fendelveru/Družina/Roglon.md",
+    "1 Ztracený důl Fendelveru/1 Ztracený důl Fendelveru.md",
+    "1 Ztracený důl Fendelveru/NPC/Gundren Skálohled.md",
+    "1 Ztracený důl Fendelveru/NPC/Jarno Albrek.md",
     "z_Templates/Insert monster (Fantasy statblocks).md",
+    "Kouzla/1. Úroveň/Mágova zbroj.md",
     "z_Templates",
     "Kouzla/1. Úroveň/Štít.md",
     "Mechaniky/Initiative tracker.md",
-    "1 Ztracený důl Fendelveru/NPC/Jarno Albrek.md",
-    "1 Ztracený důl Fendelveru/NPC/Sildar Zimohrad.md",
-    "1 Ztracený důl Fendelveru/Kapitoly/02 Fendelin.md",
-    "1 Ztracený důl Fendelveru/NPC/Gundren Skálohled.md",
     "1 Ztracený důl Fendelveru/Předměty/Hůl obrany.md",
     "1 Ztracený důl Fendelveru/Sessions/19.12.2025.md",
     "Kouzla/1. Úroveň/Zhoj zranění.md",
-    "1 Ztracený důl Fendelveru/1 Ztracený důl Fendelveru.md",
     "1 Ztracený důl Fendelveru/Sessions",
     "1 Ztracený důl Fendelveru/Frakce/Frakce.md",
     "Kouzla/0. Triky/Šokující sevření.md",
-    "Kouzla/0. Triky/Tajemný výšleh.md",
-    "Kouzla/0. Triky/Boží dohled.md",
-    "Kouzla/0. Triky/Druidovství.md",
     "Kouzla/1. Úroveň",
-    "Mechaniky/Povolání/Druid.md",
     "Kouzla/0. Triky",
     "Mechaniky/Rasy",
     "Mechaniky/Povolání",
     "Kouzla",
     "1 Ztracený důl Fendelveru/Předměty",
-    "Monstra/Notik.md",
-    "Hostinec U Kameníka.md",
-    "1 Ztracený důl Fendelveru/Kapitoly/01 Gobliní šípy.md",
-    "Monstra/Kostlivec.md",
-    "Monstra/Vlk.md",
-    "Monstra/Krysa.md",
-    "Monstra/Gobr.md",
-    "Monstra/Goblin.md",
     "z_Assety/goblin.png",
     "z_Assety/gobr.png",
     "Monstra",
