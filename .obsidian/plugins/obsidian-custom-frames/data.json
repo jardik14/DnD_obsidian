@@ -1,11 +1,59 @@
 {
   "frames": [
     {
-      "url": "tbd",
+      "url": "https://www.dndbeyond.com/characters/157584629",
       "displayName": "DnDDuban",
       "icon": "shield",
       "hideOnMobile": true,
       "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/157601402",
+      "displayName": "DnDJakub",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/157646515",
+      "displayName": "DnDKletySyn",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/157630360",
+      "displayName": "DnDRoglon",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "",
+      "displayName": "DnDYori",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
       "openInCenter": false,
       "zoomLevel": 1,
       "forceIframe": false,
