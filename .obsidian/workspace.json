@@ -22,35 +22,167 @@
             }
           },
           {
-            "id": "6d922b96092dc5ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kouzla/0. Triky/Tajemný výšleh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tajemný výšleh"
-            }
-          },
-          {
             "id": "71d0181d70873bc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monstra/Goblin.md",
+                "file": "Mechaniky/CLI/bestiary/beast/ape.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goblin"
+              "title": "ape"
+            }
+          },
+          {
+            "id": "47188da74a086b10",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Orc",
+                    "size": "Medium",
+                    "type": "humanoid",
+                    "subtype": "orc",
+                    "alignment": "Chaotic Evil",
+                    "ac": 13,
+                    "ac_class": "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/items/hide-armor.md|hide armor<STATBLOCK-MARKDOWN-LINK>",
+                    "hp": 15,
+                    "hit_dice": "2d8 + 6",
+                    "modifier": 1,
+                    "stats": [
+                      16,
+                      12,
+                      16,
+                      7,
+                      11,
+                      10
+                    ],
+                    "speed": "30 ft.",
+                    "skillsaves": [
+                      {
+                        "name": "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/Rules/skills.md#Intimidation|Intimidation<STATBLOCK-MARKDOWN-LINK>",
+                        "desc": "+2"
+                      }
+                    ],
+                    "gear": [
+                      "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/items/greataxe.md|greataxe<STATBLOCK-MARKDOWN-LINK>",
+                      "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/items/javelin.md|javelin<STATBLOCK-MARKDOWN-LINK>"
+                    ],
+                    "senses": "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/Rules/senses.md#Darkvision|darkvision<STATBLOCK-MARKDOWN-LINK> 60 ft., passive Perception 10",
+                    "languages": "Common, Orc",
+                    "cr": "1/2",
+                    "traits": [
+                      {
+                        "desc": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+                        "name": "Aggressive"
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.",
+                        "name": "Greataxe"
+                      },
+                      {
+                        "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.",
+                        "name": "Javelin"
+                      }
+                    ],
+                    "source": [
+                      "MM",
+                      "LMoP"
+                    ],
+                    "image": "/Mechaniky/CLI/bestiary/humanoid/token/orc.webp",
+                    "mtime": 1766352261593,
+                    "path": "Mechaniky/CLI/bestiary/humanoid/orc.md"
+                  },
+                  6
+                ],
+                [
+                  {
+                    "name": "Ogre",
+                    "size": "Large",
+                    "type": "giant",
+                    "alignment": "Chaotic Evil",
+                    "ac": 11,
+                    "ac_class": "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/items/hide-armor.md|hide armor<STATBLOCK-MARKDOWN-LINK>",
+                    "hp": 59,
+                    "hit_dice": "7d10 + 21",
+                    "modifier": -1,
+                    "stats": [
+                      19,
+                      8,
+                      16,
+                      5,
+                      7,
+                      7
+                    ],
+                    "speed": "40 ft.",
+                    "gear": [
+                      "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/items/greatclub.md|greatclub<STATBLOCK-MARKDOWN-LINK>",
+                      "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/items/javelin.md|javelin<STATBLOCK-MARKDOWN-LINK>"
+                    ],
+                    "senses": "<STATBLOCK-MARKDOWN-LINK>/Mechaniky/CLI/Rules/senses.md#Darkvision|darkvision<STATBLOCK-MARKDOWN-LINK> 60 ft., passive Perception 8",
+                    "languages": "Common, Giant",
+                    "cr": "2",
+                    "actions": [
+                      {
+                        "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.",
+                        "name": "Greatclub"
+                      },
+                      {
+                        "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage.",
+                        "name": "Javelin"
+                      }
+                    ],
+                    "source": [
+                      "MM",
+                      "LMoP"
+                    ],
+                    "image": "/Mechaniky/CLI/bestiary/giant/token/ogre.webp",
+                    "mtime": 1766352260723,
+                    "path": "Mechaniky/CLI/bestiary/giant/ogre.md"
+                  },
+                  1
+                ]
+              ],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "03cbc223de21606e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechaniky/CLI/adventures/lost-mine-of-phandelver/2-goblin-arrows.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-goblin-arrows"
+            }
+          },
+          {
+            "id": "e36274c4b6d20311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Ztracený důl Fendelveru/Družina/Družina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Družina"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +214,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "goblin.m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,17 +317,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kouzla/0. Triky/Tajemný výšleh.md",
+                "file": "1 Ztracený důl Fendelveru/Družina/Družina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tajemný výšleh"
+              "title": "Outline of Družina"
             }
           },
           {
-            "id": "e129508b236bc289",
+            "id": "716185067dbe15f1",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -205,7 +337,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "2000293157008dd2",
@@ -241,8 +373,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5,
-    "collapsed": true
+    "width": 568.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,50 +391,54 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6d922b96092dc5ca",
+  "active": "e36274c4b6d20311",
   "lastOpenFiles": [
-    "Mechaniky/Stavy.md",
-    "Mechaniky/Únava.md",
-    "Mechaniky/Kouzlení/Soustředění.md",
-    "Mechaniky/Boj/Útoky na dálku.md",
-    "Mechaniky/Kouzlení",
-    "Mechaniky/Boj",
-    "Mechaniky/Boj/Útoky na blízko.md",
-    "1 Ztracený důl Fendelveru/NPC/Sildar Zimohrad.md",
-    "Mechaniky/Boj/Typy zranění.md",
-    "Mechaniky/Boj/Kryt.md",
-    "Mechaniky/Boj/Snížení životů na 0.md",
-    "1 Ztracený důl Fendelveru/Sessions/19.12.2025.md",
-    "1 Ztracený důl Fendelveru/NPC/Hubert Vestička.md",
-    "1 Ztracený důl Fendelveru/Frakce/Frakce.md",
-    "1 Ztracený důl Fendelveru/Družina/Družina.md",
-    "Kouzla/Kouzla.md",
-    "1 Ztracený důl Fendelveru/1 Ztracený důl Fendelveru.md",
-    "Mechaniky/Povolání/Druid.md",
+    "Mechaniky/CLI/adventures/lost-mine-of-phandelver/2-goblin-arrows.md",
+    "Mechaniky/CLI/adventures/lost-mine-of-phandelver/1-introduction.md",
+    "Mechaniky/CLI/bestiary/beast/beast.md",
+    "Mechaniky/CLI/bestiary/humanoid/humanoid.md",
+    "Mechaniky/Mechaniky.md",
+    "Monstra/Monstra.md",
     "1 Ztracený důl Fendelveru/Družina/Duban.md",
-    "1 Ztracený důl Fendelveru/Družina/Kletý syn.md",
-    "1 Ztracený důl Fendelveru/Družina/Roglon.md",
-    "1 Ztracený důl Fendelveru/Družina/Yori.md",
-    "1 Ztracený důl Fendelveru/Družina/Bohémský kněžník.md",
-    "1 Ztracený důl Fendelveru/Družina/test.md",
-    "z_Templates/Insert custom-frame.md",
-    "z_Templates/Insert monster (Fantasy statblocks).md",
+    "1 Ztracený důl Fendelveru/Družina/Družina.md",
+    "1 Ztracený důl Fendelveru/1 Ztracený důl Fendelveru.md",
+    "Mechaniky/CLI/bestiary/humanoid/goblin.md",
+    "Mechaniky/CLI/books/monster-manual-2014/1-introduction.md",
+    "Mechaniky/CLI/spells/eldritch-blast.md",
+    "Mechaniky/CLI/books/players-handbook-2014/12-spells.md",
+    "Mechaniky/CLI/spells/spells.md",
+    "Mechaniky/CLI/bestiary/aberration/aberration.md",
+    "Mechaniky/CLI/bestiary/npc/npc.md",
     "Monstra/Goblin.md",
-    "z_Assety/Yori_img.png",
-    "z_Assety/Duban_img.png",
-    "Kouzla/0. Triky/Tajemný výšleh.md",
-    "z_Templates",
-    "1 Ztracený důl Fendelveru/Sessions",
-    "Kouzla/1. Úroveň",
-    "Kouzla/0. Triky",
-    "Mechaniky/Rasy",
-    "Mechaniky/Povolání",
-    "Kouzla",
-    "1 Ztracený důl Fendelveru/Předměty",
-    "z_Assety/goblin.png",
-    "z_Assety/gobr.png",
-    "z_Assety/Fendelin_PJ.jpg",
-    "z_Assety/Fendelin_hráči.jpg",
+    "Mechaniky/CLI/bestiary/npc/sildar-hallwinter-lmop.md",
+    "Mechaniky/CLI/bestiary/npc/gundren-rockseeker-lmop.md",
+    "Mechaniky/CLI/items/items.md",
+    "Mechaniky/CLI/decks/decks.md",
+    "Mechaniky/CLI/decks/img/back.webp",
+    "Mechaniky/CLI/items/gold-music-box.md",
+    "Mechaniky/CLI/items/gold-ring-set-with-bloodstones.md",
+    "Mechaniky/CLI/decks/deck-of-illusions.md",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-22-jester.webp",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-21-fool.webp",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-20-balance.webp",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-18-euryale.webp",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-16-donjon.webp",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-12-void.webp",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-11-talons.webp",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-10-gem.webp",
+    "Mechaniky/CLI/decks/img/deck-of-many-things-09-knight.webp",
+    "Mechaniky/CLI/classes/classes.md",
+    "Mechaniky/CLI/backgrounds/backgrounds.md",
+    "Mechaniky/CLI/bestiary/humanoid",
+    "Mechaniky/CLI/bestiary",
+    "Mechaniky/CLI",
+    "Mechaniky/CLI/vehicles/token",
+    "Mechaniky/CLI/vehicles/img",
+    "Mechaniky/CLI/vehicles",
+    "Mechaniky/CLI/traps-hazards",
+    "Mechaniky/CLI/tables",
+    "Mechaniky/CLI/spells/img",
+    "Mechaniky/CLI/spells",
     "Untitled.canvas"
   ]
 }

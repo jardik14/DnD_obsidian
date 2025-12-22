@@ -87,7 +87,7 @@ zjistí, že patřili [[Gundren Skálohled]]ovi a
 > Sedlové brašny byly vybrakovány.
 > Nedaleko leží pohozené prázdné pouzdro na mapu.
 
-V lese se ukrývají čtyři [[Goblin]]i Rokliského kmene,
+V lese se ukrývají čtyři [[Monstra/Goblin]]i Rokliského kmene,
 dva na každé straně stezky. Čekají, až se někdo přiblíží
 ke zdechlinám a pak zaútočí.
 
@@ -196,7 +196,7 @@ Křoviny v  oblasti 2 jsou z  východního břehu potoka neproniknutelné.
 
 ### Vývoj událostí
 
-[[Goblin]]i v oblasti 2 mají být na stráži, ale nedávají pozor. (Goblini už takto líní jsou.) Nicméně pokud tady budou postavy dělat hluk – například hlasitou hádkou o dalším postupu, zřizováním tábořiště, sekáním větví a tak podobně – goblini si jich všimnou a zaútočí skrz křoví, které jim poskytuje tříčtvrteční kryt (pravidla krytu viz příručka).
+[[Monstra/Goblin]]i v oblasti 2 mají být na stráži, ale nedávají pozor. (Goblini už takto líní jsou.) Nicméně pokud tady budou postavy dělat hluk – například hlasitou hádkou o dalším postupu, zřizováním tábořiště, sekáním větví a tak podobně – goblini si jich všimnou a zaútočí skrz křoví, které jim poskytuje tříčtvrteční kryt (pravidla krytu viz příručka).
 
 ## 2. Gobliní strážnice
 
@@ -204,7 +204,7 @@ Když postavy přejdou potok na jeho východní stranu, mohou nahlédnout přes 
 
 > Na východní straně potůčku vytékajícího z ústí jeskyně byla část houští vymýcena, aby vytvořila jakousi malou hlídku či strážnici. Dřevěná prkna vytlačují z prostoru trnité šlahouny, takže zde goblini mohou ležet v skrytu a sledovat okolí – třeba ti dva, kteří tam zrovna jsou!
 
-Jsou zde na stráži dva [[goblin]]i. Pokud si všimnou vetřelců v oblasti 1, zahájí střelbu z luků skrz křoviny a pravděpodobně nevítanou návštěvu překvapí. Pokud dobrodruhy neviděli, všimnou si jich, když se budou brodit přes potok a  žádná ze stran není překvapená. 
+Jsou zde na stráži dva [[Monstra/Goblin]]i. Pokud si všimnou vetřelců v oblasti 1, zahájí střelbu z luků skrz křoviny a pravděpodobně nevítanou návštěvu překvapí. Pokud dobrodruhy neviděli, všimnou si jich, když se budou brodit přes potok a  žádná ze stran není překvapená. 
 
 Pokud se některé postavy skrývají, mohou být schopny gobliny překvapit. Porovnej ověření Obratnosti (Nenápadnost) skrývajících se postav s  pasivní Moudrostí (Vnímání) goblinů (ohledně utkání dovedností viz příručka).
 
@@ -261,7 +261,7 @@ Pokud postavy nezaregistrovaly most, když se pohybovaly oblastí 4, dodej:
 
 > Přes chodbu se klene chatrný most, spojující chodby asi 4 sáhy nad vámi.
 
-Na mostě stojí na stráži jeden [[goblin]]. Skrývá se a  postavy jej mohou objevit úspěšným porovnáním své Moudrosti (Vnímání) s výsledkem goblinovy Obratnosti (Nenápadnost). Tato stráž je líná a  nepozorná. Pokud družina nepoužívá zdroj světla, může se každá postava pokusit proplížit nepozorovaně kolem, čehož docílí úspěšným ověřením Obratnosti (Nenápadnost) v  konfliktu proti hodnotě goblinovy pasivní Moudrosti (Vnímání).
+Na mostě stojí na stráži jeden [[Monstra/Goblin]]. Skrývá se a  postavy jej mohou objevit úspěšným porovnáním své Moudrosti (Vnímání) s výsledkem goblinovy Obratnosti (Nenápadnost). Tato stráž je líná a  nepozorná. Pokud družina nepoužívá zdroj světla, může se každá postava pokusit proplížit nepozorovaně kolem, čehož docílí úspěšným ověřením Obratnosti (Nenápadnost) v  konfliktu proti hodnotě goblinovy pasivní Moudrosti (Vnímání).
 
 Pokud goblin postavy zmerčí, pošle signál goblinům v oblasti 7, aby vypustili potopu (viz „Potopa!“). Poté na postavy vrhá oštěpy.
 
@@ -286,7 +286,7 @@ Goblini v Rokliské skrýši používají tuto část jeskyně jako společensk
 
 > Tato velká jeskyně je rozdělena dva sáhy vysokým srázem. Ze spodní části nahoru vede strmé přírodní schodiště. Vzduch je zamlžen kouřem z ohniště a zapáchá nemytými gobliny.
 
-Tuto místnost obývá šest [[goblin]]ů. Jeden z  nich je vůdce s 12 životy. Pět obyčejných goblinů se stará o ohniště v nižší (severní) části jeskyně poblíž vchodu, zatímco vůdce odpočívá v horní (jižní) části.
+Tuto místnost obývá šest [[Monstra/Goblin]]ů. Jeden z  nich je vůdce s 12 životy. Pět obyčejných goblinů se stará o ohniště v nižší (severní) části jeskyně poblíž vchodu, zatímco vůdce odpočívá v horní (jižní) části.
 
 Je zde také vězněn lidský válečník [[Sildar Zimohrad]]. Je bezpečně připoután k  jižní stěně jeskyně. Goblini jej bili a mučili, takže je zesláblý a na 1 životě.
 
@@ -327,7 +327,7 @@ Pokud goblini jednu nebo obě nádrže vyprázdnili, uprav podle toho následuj�
 
 > Tato prostorná místnost je z poloviny zaplněna dvěma velkými vodními nádržemi. Úzký vodopád hrnoucí se z východní stěny napájí nejen je, ale i z nich vytékající potok. Nízké hráze jsou tvořeny plochými kameny. Jižně se otevírá široký východ, západně dvě menší chodby. Zvuk vodopádu je zde ohlušující, takže není slyšet skoro nic jiného
 
-Tuto jeskyni hlídají tři [[goblin]]i. Pokud goblin z oblasti 5 družinu spatřil, jsou připraveni. Hluk vodopádu způsobuje, že nikdo v oblasti 8 neslyší z této oblasti zvuky případného boje. Proto jakmile zde k nějakému boji dojde, jeden z goblinů uteče do oblasti 8 varovat [[Klarg]]a.
+Tuto jeskyni hlídají tři [[Monstra/Goblin]]i. Pokud goblin z oblasti 5 družinu spatřil, jsou připraveni. Hluk vodopádu způsobuje, že nikdo v oblasti 8 neslyší z této oblasti zvuky případného boje. Proto jakmile zde k nějakému boji dojde, jeden z goblinů uteče do oblasti 8 varovat [[Klarg]]a.
 
 **Kamenné hráze** 
 Goblini postavili jednoduché hráze, aby ovládali průtok vody jeskyním komplexem. Pokud goblin z oblasti 5 přikázal jejich vypuštění, voda teď protéká téměř bez překážek.
@@ -338,7 +338,7 @@ Vůdce goblinů trvá na tom, aby byla většina lupu skladována v jeho doupě
 
 > Na jižním konci místnosti jsou navršeny bedny a pytle uloupeného zboží. Na západním konci se podlaha svažuje a mizí v temném otvoru. Větší otvor vede na severu dolů po přírodním schodišti, odkud se ozývají zvuky vodopádu. Uprostřed žhnou uhlíky ve velkém ohništi.
 
-[[Gobr]] [[Klarg]] sdílí tuto jeskyni se svým prašivým [[vlk]]em Trhačem a  dvěma [[goblin]]y. Gobr trpí utkvělou představou o  své vlastní důležitosti a  vidí se jako mocného vojevůdce a  přemožitele armád. Není úplně příčetný a  mluví o  sobě ve třetí osobě („Kdo se opovažuje postavit Klargovi?“ nebo „Klarg si postaví trůn z vašich kostí, pidižvíci!“). Goblini pod jeho velením toto chování nesnášejí.
+[[Gobr]] [[Klarg]] sdílí tuto jeskyni se svým prašivým [[vlk]]em Trhačem a  dvěma [[Monstra/Goblin]]y. Gobr trpí utkvělou představou o  své vlastní důležitosti a  vidí se jako mocného vojevůdce a  přemožitele armád. Není úplně příčetný a  mluví o  sobě ve třetí osobě („Kdo se opovažuje postavit Klargovi?“ nebo „Klarg si postaví trůn z vašich kostí, pidižvíci!“). Goblini pod jeho velením toto chování nesnášejí.
 
 **Ohniště**
 Žhavé uhlíky v ohništi způsobí 1 ohnivé zranění každému, kdo do něj vstoupí, nebo 1k6 tomu, kdo zde upadne na zem. Tvor může každé z těchto zranění utržit pouze jednou za kolo.

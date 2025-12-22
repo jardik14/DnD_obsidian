@@ -1,6 +1,47 @@
 {
-  "players": [],
-  "parties": [],
+  "players": [
+    {
+      "name": "Jakub (Jakub)",
+      "level": 2,
+      "player": true
+    },
+    {
+      "note": "Roglon",
+      "path": "1 Ztracený důl Fendelveru/Družina/Roglon.md",
+      "name": "Roglon (Vizi)",
+      "level": 2,
+      "player": true
+    },
+    {
+      "note": "Kletý syn",
+      "path": "1 Ztracený důl Fendelveru/Družina/Kletý syn.md",
+      "name": "Kletý syn (Ivan)",
+      "level": 2,
+      "player": true
+    },
+    {
+      "name": "Duban Ticholes (Johny)",
+      "player": true,
+      "level": 2
+    },
+    {
+      "name": "Yori (Anička)",
+      "level": 2,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Družina",
+      "players": [
+        "Roglon (Vizi)",
+        "Jakub (Jakub)",
+        "Kletý syn (Ivan)",
+        "Yori (Anička)",
+        "Duban Ticholes (Johny)"
+      ]
+    }
+  ],
   "defaultParty": null,
   "statuses": [
     {
@@ -94,54 +135,255 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
     "creatures": [
       {
-        "name": "Goblin",
-        "initiative": 17,
+        "name": "Roglon (Vizi)",
+        "initiative": 8,
         "static": false,
-        "modifier": 2,
-        "hp": 7,
-        "currentMaxHP": 7,
-        "cr": "1/4",
-        "ac": 15,
-        "currentAC": 15,
-        "id": "ID_485beafb0a1b",
-        "currentHP": 7,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Roglon",
+        "path": "1 Ztracený důl Fendelveru/Družina/Roglon.md",
+        "id": "ID_38486878fa9a",
+        "currentHP": 0,
         "tempHP": 0,
         "status": [],
         "enabled": true,
+        "level": 2,
+        "player": true,
         "active": false,
         "hidden": false,
-        "friendly": false,
-        "hit_dice": "2d6"
+        "friendly": false
       },
       {
-        "name": "Goblin",
-        "initiative": 9,
+        "name": "Jakub (Jakub)",
+        "initiative": 14,
         "static": false,
-        "modifier": 2,
-        "hp": 7,
-        "currentMaxHP": 7,
-        "cr": "1/4",
-        "ac": 15,
-        "currentAC": 15,
-        "id": "ID_baabdbd91a58",
-        "currentHP": 7,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_39390ad8499b",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Kletý syn (Ivan)",
+        "initiative": 11,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Kletý syn",
+        "path": "1 Ztracený důl Fendelveru/Družina/Kletý syn.md",
+        "id": "ID_9bca48292a18",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Yori (Anička)",
+        "initiative": 7,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_c918b9cabb49",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Duban Ticholes (Johny)",
+        "initiative": 19,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_d94b0be81a38",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 2,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Orc",
+        "initiative": 14,
+        "static": false,
+        "modifier": 1,
+        "hp": 15,
+        "currentMaxHP": 15,
+        "cr": "1/2",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Mechaniky/CLI/bestiary/humanoid/orc.md",
+        "id": "ID_98d99beaf978",
+        "currentHP": 15,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "hit_dice": "2d6"
+        "hit_dice": "2d8 + 6"
+      },
+      {
+        "name": "Orc",
+        "initiative": 17,
+        "static": false,
+        "modifier": 1,
+        "hp": 15,
+        "currentMaxHP": 15,
+        "cr": "1/2",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Mechaniky/CLI/bestiary/humanoid/orc.md",
+        "id": "ID_7a18da6b8bca",
+        "currentHP": 15,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d8 + 6"
+      },
+      {
+        "name": "Orc",
+        "initiative": 2,
+        "static": false,
+        "modifier": 1,
+        "hp": 15,
+        "currentMaxHP": 15,
+        "cr": "1/2",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Mechaniky/CLI/bestiary/humanoid/orc.md",
+        "id": "ID_d859193a399b",
+        "currentHP": 15,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d8 + 6"
+      },
+      {
+        "name": "Orc",
+        "initiative": 9,
+        "static": false,
+        "modifier": 1,
+        "hp": 15,
+        "currentMaxHP": 15,
+        "cr": "1/2",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Mechaniky/CLI/bestiary/humanoid/orc.md",
+        "id": "ID_680b78a8b8d8",
+        "currentHP": 15,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d8 + 6"
+      },
+      {
+        "name": "Orc",
+        "initiative": 13,
+        "static": false,
+        "modifier": 1,
+        "hp": 15,
+        "currentMaxHP": 15,
+        "cr": "1/2",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Mechaniky/CLI/bestiary/humanoid/orc.md",
+        "id": "ID_ca49fb48fbf9",
+        "currentHP": 15,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d8 + 6"
+      },
+      {
+        "name": "Orc",
+        "initiative": 3,
+        "static": false,
+        "modifier": 1,
+        "hp": 15,
+        "currentMaxHP": 15,
+        "cr": "1/2",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Mechaniky/CLI/bestiary/humanoid/orc.md",
+        "id": "ID_6a6a787ae99a",
+        "currentHP": 15,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "2d8 + 6"
+      },
+      {
+        "name": "Ogre",
+        "initiative": 4,
+        "static": false,
+        "modifier": -1,
+        "hp": 59,
+        "currentMaxHP": 59,
+        "cr": "2",
+        "ac": 11,
+        "currentAC": 11,
+        "path": "Mechaniky/CLI/bestiary/giant/ogre.md",
+        "id": "ID_0bd809a9896b",
+        "currentHP": 59,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "7d10 + 21"
       }
     ],
     "state": false,
-    "name": null,
+    "name": "Encounter",
     "round": 1,
     "logFile": "",
     "rollHP": false
@@ -173,8 +415,147 @@
   "descending": true,
   "builder": {
     "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "large",
+            "medium",
+            "huge",
+            "gargantuan",
+            "small",
+            "tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "dragon",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "construct",
+            "beast",
+            "plant",
+            "fiend",
+            "ooze",
+            "fey",
+            "giant",
+            "celestial"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "lawful evil",
+            "any alignment",
+            "chaotic evil",
+            "chaotic good",
+            "lawful good",
+            "neutral",
+            "lawful neutral",
+            "unaligned",
+            "any non-good alignment",
+            "any non-lawful alignment",
+            "neutral evil",
+            "any chaotic alignment",
+            "neutral good",
+            "chaotic neutral",
+            "neutral good or neutral evil",
+            "any evil alignment",
+            "chaotic good or neutral evil"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "rollPlayerInitiatives": 0
 }
