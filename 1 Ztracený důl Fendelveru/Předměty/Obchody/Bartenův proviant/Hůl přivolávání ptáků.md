@@ -1,0 +1,3 @@
+**Cena**: 40 zl
+
+Tato dřevěná hůl, ozdobená vyřezávanými ptačími motivy, má 10 dávek. Když ji držíš v ruce, můžeš v rámci akce spotřebovat 1 dávku a nechat zaznít jeden z následujících zvuků: pěnkaví cvrlikání, havraní krákání, kachní kvákání, slepičí kdákání, husí kejhání, volání luňáka, krocaní hudrování, racčí křik, soví houkání nebo orlí skřek. Každý z těchto zvuků je slyšet do vzdálenosti 12 sáhů. Hůl si každý den za úsvitu obnoví 1k6 + 4 spotřebovaných dávek. Pokud utratíš poslední dávku, hoď k20, a když ti padne 1, vybuchne v neškodném oblaku ptačího peří a je navždy ztracena.

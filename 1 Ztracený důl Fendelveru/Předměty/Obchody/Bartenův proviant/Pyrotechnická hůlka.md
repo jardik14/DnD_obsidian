@@ -1,0 +1,3 @@
+**Cena**: 40 zl
+
+Tato hůlka má 7 dávek. Když ji držíš v ruce, můžeš v rámci akce spotřebovat 1 dávku a v bodě, který vidíš ve vzdálenosti do 12 sáhů, nechat vybuchnout ohňostroj různobarevného světla. Výbuch světla je doprovázen praskáním, které je slyšet až do vzdálenosti 60 sáhů. Světlo je jasné jako plamen pochodně, ale vydrží jen jednu sekundu. Hůlka si každý den za úsvitu obnoví 1k6 + 1 spotřebovaných dávek. Pokud utratíš poslední dávku, hoď k20, a když ti padne 1, hůlka vybuchne v neškodné spršce jisker a rozpadne se.
