@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Ztracený důl Fendelveru/Předměty/Obchody/Bartenův proviant/Roh tichého poplachu.md",
-                "mode": "preview",
+                "file": "1 Ztracený důl Fendelveru/Sessions/22.12.2025.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roh tichého poplachu"
+              "title": "22.12.2025"
             }
           }
         ]
@@ -243,8 +243,11 @@
   },
   "active": "a9a4d92bba4f23f0",
   "lastOpenFiles": [
-    "1 Ztracený důl Fendelveru/Předměty/Obchody/Bartenův proviant/Svitek (Ticho).md",
+    "1 Ztracený důl Fendelveru/Družina/Grimfall Tripalot.md",
+    "1 Ztracený důl Fendelveru/Sessions/22.12.2025.md",
+    "1 Ztracený důl Fendelveru/Sessions/19.12.2025.md",
     "1 Ztracený důl Fendelveru/Předměty/Obchody/Bartenův proviant/Roh tichého poplachu.md",
+    "1 Ztracený důl Fendelveru/Předměty/Obchody/Bartenův proviant/Svitek (Ticho).md",
     "Mechaniky/CLI/spells/silence.md",
     "1 Ztracený důl Fendelveru/Předměty/Obchody/Lví štít/Štít mnoha tváří.md",
     "1 Ztracený důl Fendelveru/Předměty/Obchody/Lví štít/Meč měsíčního doteku.md",
@@ -269,9 +272,6 @@
     "1 Ztracený důl Fendelveru/Družina/Kletý syn.md",
     "1 Ztracený důl Fendelveru/Družina/Duban.md",
     "Mechaniky/CLI/adventures/lost-mine-of-phandelver/1-introduction.md",
-    "Mechaniky/CLI/bestiary/beast/beast.md",
-    "Mechaniky/CLI/bestiary/humanoid/humanoid.md",
-    "Mechaniky/Mechaniky.md",
     "Mechaniky/CLI/decks/img/back.webp",
     "Mechaniky/CLI/decks/img/deck-of-many-things-22-jester.webp",
     "Mechaniky/CLI/decks/img/deck-of-many-things-21-fool.webp",
